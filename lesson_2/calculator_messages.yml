@@ -1,0 +1,19 @@
+en:
+  welcome: "Welcome to Calculator! Enter your name:"
+  valid_name: "Make sure to enter a valid name."
+  first_number: "What's the first number?"
+  invalid_number: "Hmm... That doesn't look like a valid number"
+  second_number: "What's the second number?"
+  invalid_operator: "Must choose 1, 2, 3, or 4"
+  again?: "Do you want to perform another calculation? (Y to circulate again)"
+  thank_you: "Thank you for using the calculator. Goodbye!"
+
+ja:
+  welcome: "ようこそ！お名前を教えてください："
+  valid_name: "正しい名前を入力してください。"
+  first_number: "What's the first number?"
+  invalid_number: "Hmm... That doesn't look like a valid number"
+  second_number: "What's the second number?"
+  invalid_operator: "Must choose 1, 2, 3, or 4"
+  again?: "Do you want to perform another calculation? (Y to circulate again)"
+  thank_you: "Thank you for using the calculator. Goodbye!"
