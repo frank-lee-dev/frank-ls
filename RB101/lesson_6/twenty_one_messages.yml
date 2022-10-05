@@ -1,0 +1,28 @@
+welcome: |
+  Howdy! Let's play a game of Twenty One!
+
+  Rules can be found at: https://bargames101.com/21-card-game-rule/
+
+  The computer will deal. First one to win five (5) games is the overall winner!
+  
+  You can forfeit early and give up before five (5) wins, too.
+
+  ---------------------------------------------------------------------------------------------------------------
+  
+  Press [enter] when you're ready to start.
+
+hit_or_stay?: "Do you want to hit or stay? (h or s)"
+player_hit: "You hit!"
+player_stayed: "You stayed!"
+dealer_hit: "The dealer hit!"
+dealer_stay: "The dealer stayed!"
+player_bust: "You busted!"
+dealer_bust: "The dealer busted!"
+player_win: "You won!"
+dealer_win: "The dealer won!"
+tie: "It's a tie!"
+forfeit?: "Forfeit? (y or n)"
+invalid_choice: "That's not a valid option. Please provide a valid input."
+player_won_5_games: "You won 5 games! Have you considered going pro?"
+dealer_won_5_games: "The dealer won 5 games! Good thing you weren't playing for keeps, huh?"
+forfeit: "You forfeited. Thanks for playing! Good bye."
