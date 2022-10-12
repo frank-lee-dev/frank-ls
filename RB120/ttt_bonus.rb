@@ -1,5 +1,3 @@
-require 'pry'
-
 module Formattable
   def clear
     system 'clear'
